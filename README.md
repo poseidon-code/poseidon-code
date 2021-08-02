@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" rel="stylesheet">
     h2 {
         border-bottom: none;
     }
