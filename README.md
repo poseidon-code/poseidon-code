@@ -1,16 +1,10 @@
-<style type="text/css" rel="stylesheet">
-    h2 {
-        border-bottom: none;
-    }
-</style>
-
 <img src="./assets/header.gif" alt='header' width="100%">
 
 <div align="center">
 
 # Hi 👋, I am Pritam Halder
 
-## "Success is not final, failure is not fatal, it is the courage to continue that counts"
+<h2 style="border-bottom: none"> "Success is not final, failure is not fatal, it is the courage to continue that counts" </h2>
 
 ## &bull;&bull;&bull;
 
