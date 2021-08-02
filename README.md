@@ -4,15 +4,15 @@
 
 # Hi 👋, I am Pritam Halder
 
-<h2 style="border-bottom: none"> "Success is not final, failure is not fatal, it is the courage to continue that counts" </h2>
+### "Success is not final, failure is not fatal, it is the courage to continue that counts"
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
 
-### I'm a Kolkata based software engineer who specializes in building and designing full stack products leading projects from research to implementation. I combine empathy, business strategy and design to create exceptional user experiences.
+#### I'm a Kolkata based software engineer who specializes in building and designing full stack products leading projects from research to implementation. I combine empathy, business strategy and design to create exceptional user experiences.
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
 
-## ✨ [Porfolio](https://pritamh.netlify.app) ✨
+### ✨ **[Portfolio](https://pritamh.netlify.app)** ✨
 
 <img src="./assets/current.gif" alt='current' width="80%">
 
@@ -51,9 +51,9 @@
 
 ### Modern technologies helped me to upgrade from traditional methods to new ways. Implementing logics helped me with my programming confidence. I have experience with most of the important UI designing / coding frameworks, proficient with with both javascript based backend and frontend development. I am also skilled with various designing softwares.
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
 
-## Programming Languages
+### **Programming Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,13 +65,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## Databases
+### **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Frameworks
+### **Frameworks**
 
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,14 +91,14 @@
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Cloud Services
+### **Cloud Services**
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## Designing Tools
+### **Designing Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
@@ -108,7 +108,7 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-## My Workflow
+### **My Workflow**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -131,7 +131,9 @@
 
 ### My creative mindset and my passion for designning yeilded these fine results. With a core background of computer programming and a creative hobby made me look always forwards to perfection.
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
+
+<br/>
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=portfolio&theme=prussian)](https://github.com/poseidon-code/portfolio)
 
@@ -169,9 +171,9 @@
 
 ### My true goal in my life is to do the job I love, that is programming, coding & designing; because in that moment I would be at my best, always :)
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
 
-## ✨ [Porfolio](https://pritamh.netlify.app) ✨
+### ✨ **[Porfolio](https://pritamh.netlify.app)** ✨
 
 </div>
 
@@ -200,9 +202,9 @@
 
 <div align="center">
 
-## &bull;&bull;&bull;
+### &bull; &bull; &bull;
 
-## (｡◕‿◕｡)
+### **(｡◕‿◕｡)**
 
 ### Created with ❤ by your sincerely.
 
