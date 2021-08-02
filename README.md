@@ -1,3 +1,9 @@
+<style>
+    h2 {
+        border-bottom: none;
+    }
+</style>
+
 <img src="./assets/header.gif" alt='header' width="100%">
 
 <div align="center">
