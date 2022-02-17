@@ -28,14 +28,10 @@
 
 <h1 align="center">🍔 What's going on, you ask ?</h1>
 
--   🌱 I’m currently learning **Strapi, GraphQL, Jest, Selenium Automation and had a hands-on with Go**.
-
+-   🌱 I’m currently learning **Go and its image libraries with a multi-million dollar idea 😁**.
 -   👨‍💻 All of my projects are available at my **[Portfolio](https://pritamh.netlify.app)**.
-
--   💬 Ask me about : **ReactJs, NextJs, NodeJs, ExpressJs, MongoDB, JavaScript, TypeScript, Graphics Designing, Motion Graphics, GraphQL, Linux Customizations (Ricing) and just about life 🤗**.
-
+-   💬 Ask me about : **Python, Go, JavaScript, TypeScript, ReactJs, NextJs, NodeJs, ExpressJs, MongoDB, Linux Customizations (Ricing) and just about life 🤗**.
 -   📫 How to reach me ? **pritamhalder.portfolio@gmail.com**.
-
 -   📄 Get to know about my professional field of work : **[My Resume](./assets/Resume%20-%20Pritam%20Halder.pdf)**.
 -   📄 Get to know about my academic experiences : **[My CV](./assets/CV%20-%20Pritam%20Halder.pdf)**.
 
@@ -48,12 +44,6 @@
 <div align="center">
 
 <img src="./assets/skills.gif" alt="skills" width="40%">
-
-# 🐱‍👤 My Technical Skill Sets
-
-### Modern technologies helped me to upgrade from traditional methods to new ways. Implementing logics helped me with my programming confidence. I have experience with most of the important UI designing / coding frameworks, proficient with with both javascript based backend and frontend development. I am also skilled with various designing softwares.
-
-### &bull; &bull; &bull;
 
 ### **Programming Languages**
 
@@ -129,22 +119,6 @@
 
 <img src="./assets/stats.gif" alt="stats" width="30%">
 
-# 🗽 My Masterpieces
-
-### My creative mindset and my passion for designning yeilded these fine results. With a core background of computer programming and a creative hobby made me look always forwards to perfection.
-
-### &bull; &bull; &bull;
-
-<br/>
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=portfolio&theme=prussian)](https://github.com/poseidon-code/portfolio)
-[![Poseidon's Readme](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=poseidon-code&theme=prussian)](https://github.com/poseidon-code/poseidon-code)
-[![Supacons](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=supacons&theme=prussian)](https://github.com/poseidon-code/supacons)
-[![ytmp3-dl](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=ytmp3-dl&theme=prussian)](https://github.com/poseidon-code/mp3-download-script-v2)
-[![TailwindColors](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=tailwind-colors&theme=prussian)](https://github.com/poseidon-code/tailwind-colors)
-[![Stories.io](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=stories.io&theme=prussian)](https://github.com/poseidon-code/stories.io)
-[![Short Stories API](https://github-readme-stats.vercel.app/api/pin/?username=poseidon-code&repo=shortstories-api&theme=prussian)](https://github.com/poseidon-code/shortstories-api)
-
 # 🐱‍🏍 My Github Stats
 
 ![Poseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=poseidon-code&theme=prussian&show_icons=true)
@@ -210,7 +184,7 @@
 
 ### **(｡◕‿◕｡)**
 
-### Created with ❤ by your sincerely.
+### Created with ❤ by yours sincerely.
 
 #### &copy;Pritam Halder 2021
 
