@@ -12,9 +12,9 @@
 
 ### &bull; &bull; &bull;
 
-#### **📃 [Resume](./assets/Resume%20-%20Pritam%20Halder.pdf) &bull; [CV](./assets/CV%20-%20Pritam%20Halder.pdf)**
+#### **📃 [Resume](./assets/resume/Resume%20-%20Pritam%20Halder.pdf)**
 
-### ✨ **[Portfolio](https://pritamh.netlify.app)** ✨
+### ✨ **[pritamh.dev](https://pritamh.netlify.app)** ✨
 
 <img src="./assets/current.gif" alt='current' width="80%">
 
@@ -33,8 +33,7 @@
 -   👨‍💻 All of my projects are available at my **[Portfolio](https://pritamh.netlify.app)**.
 -   💬 Ask me about : **Python, Go, JavaScript, TypeScript, ReactJs, NextJs, NodeJs, ExpressJs, MongoDB, Linux Customizations (Ricing) and just about life 🤗**.
 -   📫 How to reach me ? **pritamhalder.portfolio@gmail.com**.
--   📄 Get to know about my professional field of work : **[My Resume](./assets/Resume%20-%20Pritam%20Halder.pdf)**.
--   📄 Get to know about my academic experiences : **[My CV](./assets/CV%20-%20Pritam%20Halder.pdf)**.
+-   📄 Get to know about my academic experiences : **[My Resume](./assets/resume/Resume%20-%20Pritam%20Halder.pdf)**.
 
 <!--  -->
 <!--  -->
