@@ -2,7 +2,7 @@
 
 # Hi 👋, I am Pritam Halder
 
-#### I am an aspiring software developer specialising in frontend and backend web technologies. I love to dabble with new & upcoming web technologies and provide solutions to real world problems. Currently, I am learning Go and its design principles with gRPC framework and GraphQL technologies.
+#### I am a software developer by background, specialising in frontend and backend web technologies. I love to dabble with new & upcoming web technologies and provide solutions to real world problems. Currently, I am learning Go & C++ with their design principles with gRPC framework and GraphQL technologies.
 
 ### &bull; &bull; &bull;
 
@@ -13,24 +13,16 @@
 </div>
 
 <!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
 
-<h1 align='center'> 🍔 What's going on, you ask ? </h1>
+<h1 align='center'> 🎯 What's going on, you ask ? </h1>
 
--   🌱 I’m currently learning **Go and its backend implementations for gRPC, GraphQL, Sockets and systems design**.
--   🎯 Technologies on my radar : **WebRTC, gRPC, web3, smart contracts & blockchain**
+-   🌱 I’m currently learning **C++ & Go with their implementations for gRPC, GraphQL and Sockets with overall systems design**.
+-   🎯 Technologies on my radar : **WebRTC, gRPC, GraphQL**
 -   👨‍💻 All of my projects are available at my **[Portfolio](https://pritamh.netlify.app)**.
--   💬 Ask me about : **Python, Go, JavaScript, TypeScript, ReactJs, NextJs, NodeJs, ExpressJs, MongoDB, Linux Customizations (ricing) and just about life 🤗**.
+-   💬 Ask me about : **C++, Go, Python, JavaScript, TypeScript, ReactJs, NextJs, Linux Customizations (ricing) and just about life 🤗**.
 -   📫 How to reach me ? **pritamhalder.portfolio@gmail.com**.
 -   📄 Get to know about my academic experiences : **[My Resume](./assets/resume/Resume%20-%20Pritam%20Halder.pdf)**.
 
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
 <!--  -->
 
 <div align="center">
@@ -47,10 +39,6 @@
 
 </div>
 
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
 <!--  -->
 
 <div align="center">
